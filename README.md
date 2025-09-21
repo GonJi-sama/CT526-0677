@@ -17,4 +17,5 @@ Final: execute the code
     
 Then type "python main.py" to execute my code
     
+    python main.py
     
